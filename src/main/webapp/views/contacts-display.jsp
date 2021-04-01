@@ -10,7 +10,7 @@
 <script type="text/javascript">
 
  			function confirmDelete(){
-			return confirm("Are you Sure,to Delete?");
+			return confirm("Are you Sure,Want to Delete?");
 			} 
 </script>
 </head>
